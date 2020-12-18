@@ -5,7 +5,7 @@
 void main()
 {
 
-
+    lod();
     //part of declartions
     char charcommand[1000];
     char p[1000]="write your command here ,sir";
